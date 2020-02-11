@@ -2,7 +2,7 @@
 
 ## Máster en Ingeniería Informática 19-20
 
-### Teoría
+### Ejercicios de teoría
 
 * **Tema 1.**
   - Análisis de la Interfaz de Usuario de SWAD.
@@ -12,7 +12,7 @@
 * **Tema 4.**
   - Análisis de una aplicación web o móvil para comprobar si se han seguido las leyes de Gestalt.
 
-### Seminarios
+### Ejercicios de seminarios
 
 * **Seminario 1.**
   - Importancia de la creatividad para los informáticos.
